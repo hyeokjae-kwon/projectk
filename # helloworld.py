@@ -2,4 +2,4 @@
 
 msg = "hello wolrd"
 print(msg)
-print(test)
+print("test")
